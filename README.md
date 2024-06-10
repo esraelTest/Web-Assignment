@@ -25,7 +25,7 @@ This project is developed and maintained by:
 ## Figma Design
 
 You can view the design of the calculator in our Figma project:
-[Lab Calculator Figma Design]([https://www.figma.com/yourfigmaprojectlink](https://www.figma.com/design/hJAz0BdM7uNmQHyzXceleU/Untitled?node-id=0%3A1&t=qhcQze92p5gu45bg-1))
+[Lab Calculator Figma Design](https://www.figma.com/design/hJAz0BdM7uNmQHyzXceleU/Untitled?node-id=0%3A1&t=qhcQze92p5gu45bg-1)
 
 ## Deployed Site
 

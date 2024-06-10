@@ -30,7 +30,7 @@ You can view the design of the calculator in our Figma project:
 ## Deployed Site
 
 Check out the live version of our calculator:
-[Lab Calculator Web App](web-programming-calculator.vercel.app)
+[Lab Calculator Web App](https://web-programming-calculator.vercel.app/)
 
 ## Usage
 
@@ -38,4 +38,4 @@ To use the calculator:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Bereket6430/Web-Assignment.git
+   git clone https://github.com/yourusername/lab-calculator.git

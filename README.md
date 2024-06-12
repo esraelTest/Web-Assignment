@@ -18,9 +18,9 @@ This is a simple web application that serves as a calculator for lab assignments
 
 This project is developed and maintained by:
 
-- **Bereket Birhanu**
-- **Esarel Asefa**
-- **Dawit Shewangizaw**
+- **Bereket Birhanu. ugr/22653/13**
+- **Esarel Asefa. ugr/22509/13**
+- **Dawit Shewangizaw. ugr/23783/13**
 
 ## Figma Design
 
